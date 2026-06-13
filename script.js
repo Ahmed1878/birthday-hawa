@@ -1,5 +1,5 @@
 const musicBtn = document.getElementById("music-btn");
-const music = document.getElementById("birthday-music");
+const music = document.getElementById("birthday-song");
 
 musicBtn.addEventListener("click", function () {
 
